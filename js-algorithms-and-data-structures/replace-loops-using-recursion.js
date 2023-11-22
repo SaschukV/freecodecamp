@@ -1,4 +1,6 @@
 // ❓DESCRIPTION:
+// Write a recursive function, multiply(arr, n),
+// that returns the multiply of the first n elements of an array arr.
 
 // ✅ Solution1:(моё решение)
 
